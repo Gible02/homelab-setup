@@ -1,1 +1,9 @@
+I built this lab was built to gain practical experience that bridges between certification study and real world enterprise networking. Specific objectives: 
 
+   1. Validate textbook concepts on real hardware. CCNA topics like NAT/PAT, stateful inspection, ACLs, and inter-VLAN routing behave differently on real Cisco gear than they do on Packet Tracer. 
+
+   2.  Build a defensible, segmented network that separates trusted internal hosts from the consumer-grade ISP edge. 
+
+   3.  Practice enterprise CLI workflows — IOS, ASA OS, console-based recovery, and config persistence. 
+
+   4.  Create a platform for security tooling — a stable, segmented LAN that can host a SIEM (Wazuh), virtualized attack/defense ranges, and Active Directory in future phases. 
